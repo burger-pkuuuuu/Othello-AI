@@ -1,1 +1,7 @@
+# OthelloAI 项目依赖说明
+# 本项目使用 Python 标准库，无需额外安装第三方依赖。
 
+# 若运行环境为精简版 Python (如某些 Linux 发行版)，
+# 可能需要单独安装 tk 模块，例如：
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# CentOS: sudo yum install python3-tkinter
